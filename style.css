@@ -1,0 +1,54 @@
+body {
+	background-color: black;
+	margin: 0 auto;
+
+
+}
+
+.container {
+	margin: 0px auto
+
+
+}
+
+input:hover, select:hover, textarea:hover {
+	border-color: red;
+
+}
+
+input, select, textarea, placeholder {
+
+  background-color : transparent; 
+  color: red;
+
+label {
+	padding-bottom: 2px
+	bottom: 40px;
+}
+
+}
+.left-side {
+	font-size: large;
+	float: left;
+	padding: 2em;
+	color:white;
+	font-family: verdana, times, serif, sans-serif;
+}
+
+
+
+.center  {
+	font-size: large;
+	float: left;
+	padding: 2em;
+	color:white;
+	font-family: verdana, times, serif, sans-serif;
+}
+
+.right-side {
+	font-size: large;
+	float: left;
+	padding: 2em;
+	color:white;
+	font-family: verdana, times, serif, sans-serif;
+}
